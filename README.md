@@ -19,6 +19,7 @@ The database schema includes tables for users, movies, theaters, showtimes, book
 Below are 30 SQL questions related to the BookMyShow project, covering various aspects of the system's functionality and database operations:
 
 Consider the `movies` table for generating 10 questions: -
+
 Question 1: Retrieve the titles of all movies in the database.
 Question 2: Find the genres of movies released on or after a specific date.
 Question 3: Identify the number of movies in each genre.
@@ -36,6 +37,7 @@ columns, filtering based on conditions, and aggregating data.
 
 Consider the relationship between the `movies` and `showtimes` tables for generating
 10 questions: -
+
 Question 1: Retrieve the titles and genres of all movies that have showtimes.
 Question 2: Find the theaters where a specific movie is currently being shown.
 Question 3: Identify the number of showtimes for each movie.
@@ -54,6 +56,7 @@ gather information from both tables.
 
 Consider a relationship between the `movies`, `showtimes`, and `bookings` tables for 
 generating 10 questions:
+
 Question 1: Retrieve the titles and genres of all movies for which bookings have been made.
 Question 2: Find the usernames and email addresses of users who booked tickets for a specific 
  movie.
